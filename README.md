@@ -1,2 +1,2 @@
-# keylogger
-A simple keylogger for learning purposes
+# Keylogger
+This file contains a simple keylogger for learning purposes. 
